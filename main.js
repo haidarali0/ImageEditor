@@ -44,6 +44,7 @@ upload.onchange = function ()
         saveImage();
         canvas.style.display="block";
     }
+    upload.style.display="none";
     
    
 
