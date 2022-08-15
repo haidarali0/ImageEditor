@@ -66,6 +66,7 @@ ul li input
     cursor: pointer;
     margin:auto;
     font:inherit;
+    min-width:200px;
     
 }
 .filters ul 
