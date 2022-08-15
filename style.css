@@ -33,7 +33,7 @@ body
     display:flex;
     flex-direction:column;
     align-items:center;
-    justify-content:center;
+    justify-content:space-around;
     gap:20px;
     margin :10px auto;
     max-width:55vw;
@@ -59,12 +59,12 @@ ul li input
 .img-box label ,.img-box button
 {
     background-color:#2E0249;
-    padding: 10px 20px;
+    padding: 10px;
     border:1px white solid;
     border-radius: 20px;
     color:white;
     cursor: pointer;
-    margin:30px auto;
+    margin:auto;
     font:inherit;
    
     
