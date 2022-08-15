@@ -35,14 +35,16 @@ body
     justify-content:space-around;
     margin :auto;
     gap:20px;
-    max-width:55vw;
+    max-width:55vw; 
+    max-height:80vh;
+
 
    
 } 
 
 .img-box img ,.canvas
 {
-    max-height:80vh;
+    max-height:65vh;
     max-width:95%;
     width:95%;
 
