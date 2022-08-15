@@ -16,6 +16,7 @@ body
     display:flex;
     justify-content:space-between;
     align-items: center;
+    gap:20px;
   
     
 }
@@ -32,6 +33,8 @@ body
     flex-direction:column;
     align-items:center;
     justify-content:space-around;
+    margin :auto;
+    gap:20px;
     max-width:55vw;
 
    
@@ -39,6 +42,7 @@ body
 
 .img-box img ,.canvas
 {
+    max-height:80vh;
     max-width:95%;
     width:95%;
 
@@ -61,7 +65,9 @@ ul li input
     border-radius: 20px;
     color:white;
     cursor: pointer;
+    margin:10px ;
     font:inherit;
+   
     
 }
 .filters ul 
