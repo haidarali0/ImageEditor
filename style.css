@@ -35,17 +35,15 @@ body
     justify-content:space-around;
     margin :auto;
     gap:20px;
-    max-width:55vw; 
-    max-height:60vh; 
-    height:60vh;
-
+    max-width:55vw;
+    max-height:55vh;
 
    
 } 
 
 .img-box img ,.canvas
-{   
-    max-height:60vh;
+{
+    max-height:45vh;
     max-width:95%;
     width:95%;
 
@@ -114,9 +112,6 @@ ul li input
     .container
     {
        flex-direction: column-reverse;
-       justify-content:space-around;
-       align-items: center;
-	    
     }
     .img-box
     {
@@ -126,7 +121,6 @@ ul li input
     .img-box img , .canvas
     {
        max-width:95%;
-       max-height:400px;
       
     }
     .filters
