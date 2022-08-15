@@ -15,8 +15,8 @@ body
     border-radius:20px;
     display:flex;
     justify-content:space-between;
-    align-items: center;
-    gap:20px;
+    align-items: space-around;
+    gap:30px;
   
     
 }
