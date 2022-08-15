@@ -45,9 +45,8 @@ body
 {
     max-width:95%;
     width:95%;
-  margin:20px auto;
-
-
+    margin:20px auto;
+    max-height:40vh;
 }
 
 .img-box input 
